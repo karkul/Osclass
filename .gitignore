@@ -4,6 +4,7 @@
 # Git
 *.diff
 *.patch
+.gitmodules
 
 # Sublime 2
 sftp-config*
